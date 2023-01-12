@@ -8,7 +8,7 @@
   
 - 💬 Ask me about **MERN, PERN**  
   
-- 📫 How to reach me **florienwaka@gmail.com**  
+- 📫 How to reach me **waka.florien45@gmail.com**  
   
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1wSTmsqR7jVFvtM0NwIMkk5vzvvD-nAvIxbcuRpD01ag/edit?usp=sharing)  
   
