@@ -4,7 +4,7 @@
   
 - 🔭 I’m currently working on [Flashcards api](https://github.com/wakaflorien/flashcards-typescript-api)  
   
-- 🌱 I’m currently learning **Graphql, typescript**  
+- 🌱 I’m currently learning **Laravel**  
   
 - 💬 Ask me about **MERN, PERN**  
   
