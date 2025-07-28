@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Florien</h1>  
-<p align="center">I'm a software engineer passionate about crafting interactive web and mobile applications that enhance user engagement and elevate technology's potential. I'm driven by the transformative power of technology, building solutions that streamline processes, enrich user experiences, and generate tangible, real-world impact.
+<p>I'm a software engineer passionate about crafting interactive web and mobile applications that enhance user engagement and elevate technology's potential. I'm driven by the transformative power of technology, building solutions that streamline processes, enrich user experiences, and generate tangible, real-world impact.
 </p> 
   
 - 🌱 I’m currently learning **React Native**    
