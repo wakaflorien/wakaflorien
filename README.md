@@ -11,7 +11,7 @@
 - 🌱 I'm currently learning **React Native**
 - 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node.js, REST API, GraphQL, MySQL, PostgreSQL, React Testing Library, Jest, PHP, TailwindCSS, Redux Toolkit, Zustand, TanStack Query**
 - 📫 Reach me at **waka.florien45@gmail.com**
-- 📄 Check my [Resume](https://docs.google.com/document/d/1wSTmsqR7jVFvtM0NwIMkk5vzvvD-nAvIxbcuRpD01ag/edit?usp=sharing)
+- 📄 Check my [Resume](https://florien-mi.netlify.app/cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
