@@ -9,7 +9,7 @@
 
 - 🔭 I'm currently working on **Web and Mobile Applications**
 - 🌱 I'm currently learning **React Native**
-- 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node.js, REST API, GraphQL, MySQL, PostgreSQL, React Testing Library, Jest, PHP, TailwindCSS, Redux Toolkit, Zustand, TanStack Query**
+- 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node.js, REST API, GraphQL, MySQL, PostgreSQL, React Testing Library, Jest, PHP, TailwindCSS, Redux Toolkit, Zustand, TanStack Query, Python, Docker**
 - 📫 Reach me at **waka.florien45@gmail.com**
 - 📄 Check my [Resume](https://florien-mi.netlify.app/cv)
 
@@ -34,4 +34,6 @@
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 </p>
